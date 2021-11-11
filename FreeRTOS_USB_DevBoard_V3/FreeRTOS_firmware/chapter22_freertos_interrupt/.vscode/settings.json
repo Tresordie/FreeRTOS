@@ -1,0 +1,9 @@
+{
+	"files.associations": {
+		"bsp.h": "c",
+		"stm32f10x.h": "c",
+		"bsp_gpio.h": "c",
+		"bsp_nvic.h": "c",
+		"bsp_sw_delay.h": "c"
+	}
+}
